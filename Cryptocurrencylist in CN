@@ -1,138 +1,138 @@
 # CEFI
-HOST-SUFFIX,aex.com 数字货币
-HOST-SUFFIX,bibox.com 数字货币
-HOST-SUFFIX,binance.cc 数字货币
-HOST-SUFFIX,binance.com 数字货币
-HOST-SUFFIX,binance.info 数字货币
-HOST-SUFFIX,binance.cloud 数字货币
-HOST-SUFFIX,binance.im, 数字货币
-HOST-SUFFIX,binance.me, 数字货币
-HOST-SUFFIX,bntrace.com 数字货币
-HOST-SUFFIX,binancefuture.com 数字货币
-HOST-SUFFIX,bnappzh.com 数字货币
-HOST-SUFFIX,bnbstatic.com 数字货币
-HOST-SUFFIX,binance.im 数字货币
-HOST-SUFFIX,binance.me 数字货币
-HOST-SUFFIX,bitcointalk.org 数字货币
-HOST-SUFFIX,bitfinex.com 数字货币
-HOST-SUFFIX,bitmex.com 数字货币
-HOST-SUFFIX,ftx.com 数字货币
-HOST-SUFFIX,ftx.tech 数字货币
-HOST-SUFFIX,ftx.digital 数字货币
-HOST-SUFFIX,ftx.io 数字货币
-HOST-SUFFIX,gate.io 数字货币
-HOST-SUFFIX,huobi.com 数字货币
-HOST-KEYWORD,huobi 数字货币
-HOST-SUFFIX,okex.com 数字货币
-HOST-SUFFIX,sushi.com 数字货币
-HOST-SUFFIX,uniswap.org 数字货币
-HOST-SUFFIX,zb.com 数字货币
-HOST-SUFFIX,huobiasia.club 数字货币
-HOST-SUFFIX,huobiasia.vip 数字货币
-HOST-SUFFIX,xfilecache.com 数字货币
-HOST-SUFFIX,woodpeckerlog.com 数字货币
-HOST-SUFFIX,bitvj.com 数字货币
-HOST-SUFFIX,bitvk.com 数字货币
-HOST-SUFFIX,bitderiv.com 数字货币
-HOST-SUFFIX,hbabit.com 数字货币
-HOST-SUFFIX,pexpay.com 数字货币
-HOST-SUFFIX,easycoins.com 数字货币
-HOST-SUFFIX,mexc.com 数字货币
-HOST-KEYWORD,kucoin 数字货币
-HOST-SUFFIX,forter.com 数字货币
-HOST-SUFFIX,xcoinsystem.com 数字货币
-HOST-SUFFIX,bitget.com 数字货币
-HOST-SUFFIX,9ibp.com 数字货币
+HOST-SUFFIX,aex.com,Cryptocurrency
+HOST-SUFFIX,bibox.com,Cryptocurrency
+HOST-SUFFIX,binance.cc,Cryptocurrency
+HOST-SUFFIX,binance.com,Cryptocurrency
+HOST-SUFFIX,binance.info,Cryptocurrency
+HOST-SUFFIX,binance.cloud,Cryptocurrency
+HOST-SUFFIX,binance.im,,Cryptocurrency
+HOST-SUFFIX,binance.me,,Cryptocurrency
+HOST-SUFFIX,bntrace.com,Cryptocurrency
+HOST-SUFFIX,binancefuture.com,Cryptocurrency
+HOST-SUFFIX,bnappzh.com,Cryptocurrency
+HOST-SUFFIX,bnbstatic.com,Cryptocurrency
+HOST-SUFFIX,binance.im,Cryptocurrency
+HOST-SUFFIX,binance.me,Cryptocurrency
+HOST-SUFFIX,bitcointalk.org,Cryptocurrency
+HOST-SUFFIX,bitfinex.com,Cryptocurrency
+HOST-SUFFIX,bitmex.com,Cryptocurrency
+HOST-SUFFIX,ftx.com,Cryptocurrency
+HOST-SUFFIX,ftx.tech,Cryptocurrency
+HOST-SUFFIX,ftx.digital,Cryptocurrency
+HOST-SUFFIX,ftx.io,Cryptocurrency
+HOST-SUFFIX,gate.io,Cryptocurrency
+HOST-SUFFIX,huobi.com,Cryptocurrency
+HOST-KEYWORD,huobi,Cryptocurrency
+HOST-SUFFIX,okex.com,Cryptocurrency
+HOST-SUFFIX,sushi.com,Cryptocurrency
+HOST-SUFFIX,uniswap.org,Cryptocurrency
+HOST-SUFFIX,zb.com,Cryptocurrency
+HOST-SUFFIX,huobiasia.club,Cryptocurrency
+HOST-SUFFIX,huobiasia.vip,Cryptocurrency
+HOST-SUFFIX,xfilecache.com,Cryptocurrency
+HOST-SUFFIX,woodpeckerlog.com,Cryptocurrency
+HOST-SUFFIX,bitvj.com,Cryptocurrency
+HOST-SUFFIX,bitvk.com,Cryptocurrency
+HOST-SUFFIX,bitderiv.com,Cryptocurrency
+HOST-SUFFIX,hbabit.com,Cryptocurrency
+HOST-SUFFIX,pexpay.com,Cryptocurrency
+HOST-SUFFIX,easycoins.com,Cryptocurrency
+HOST-SUFFIX,mexc.com,Cryptocurrency
+HOST-KEYWORD,kucoin,Cryptocurrency
+HOST-SUFFIX,forter.com,Cryptocurrency
+HOST-SUFFIX,xcoinsystem.com,Cryptocurrency
+HOST-SUFFIX,bitget.com,Cryptocurrency
+HOST-SUFFIX,9ibp.com,Cryptocurrency
 
 
 # Defi
-HOST-SUFFIX,mdex.com 数字货币
-HOST-SUFFIX,mdex.me 数字货币
-HOST-SUFFIX,mdex.co 数字货币
-HOST-SUFFIX,mdex.cc 数字货币
-HOST-SUFFIX,coinwind.com 数字货币
-HOST-SUFFIX,coinwind.pro 数字货币
-HOST-SUFFIX,sun.io 数字货币
-HOST-SUFFIX,justswap.io 数字货币
-HOST-SUFFIX,depth.fi 数字货币
-HOST-SUFFIX,hswap.com 数字货币
-HOST-SUFFIX,coin.top 数字货币
-HOST-SUFFIX,westarter.org 数字货币
+HOST-SUFFIX,mdex.com,Cryptocurrency
+HOST-SUFFIX,mdex.me,Cryptocurrency
+HOST-SUFFIX,mdex.co,Cryptocurrency
+HOST-SUFFIX,mdex.cc,Cryptocurrency
+HOST-SUFFIX,coinwind.com,Cryptocurrency
+HOST-SUFFIX,coinwind.pro,Cryptocurrency
+HOST-SUFFIX,sun.io,Cryptocurrency
+HOST-SUFFIX,justswap.io,Cryptocurrency
+HOST-SUFFIX,depth.fi,Cryptocurrency
+HOST-SUFFIX,hswap.com,Cryptocurrency
+HOST-SUFFIX,coin.top,Cryptocurrency
+HOST-SUFFIX,westarter.org,Cryptocurrency
 
 # Wallet
-HOST-SUFFIX,hbwallet.net 数字货币
-HOST-SUFFIX,mytokenpocket.vip 数字货币
-HOST-SUFFIX,tokenpocket.pro 数字货币
-HOST-SUFFIX,tronlink.org 数字货币
-HOST-SUFFIX,hbwalletapi.net 数字货币
-HOST-SUFFIX,quickwallet.io 数字货币
-HOST-SUFFIX,metamask.io 数字货币
+HOST-SUFFIX,hbwallet.net,Cryptocurrency
+HOST-SUFFIX,mytokenpocket.vip,Cryptocurrency
+HOST-SUFFIX,tokenpocket.pro,Cryptocurrency
+HOST-SUFFIX,tronlink.org,Cryptocurrency
+HOST-SUFFIX,hbwalletapi.net,Cryptocurrency
+HOST-SUFFIX,quickwallet.io,Cryptocurrency
+HOST-SUFFIX,metamask.io,Cryptocurrency
 
 # Miner
-HOST-SUFFIX,unmineable.com 数字货币
-HOST-SUFFIX,unminable.com 数字货币
+HOST-SUFFIX,unmineable.com,Cryptocurrency
+HOST-SUFFIX,unminable.com,Cryptocurrency
 
 # Chain
-HOST-SUFFIX,hecochain.com 数字货币
-HOST-SUFFIX,tronalliance.com 数字货币
-HOST-SUFFIX,tronalliance.cc 数字货币
-HOST-SUFFIX,trongrid.io 数字货币
-HOST-SUFFIX,infura.io 数字货币
-HOST-SUFFIX,binance.org 数字货币
-HOST-SUFFIX,http-mainnet-node.huobichain.com 数字货币
+HOST-SUFFIX,hecochain.com,Cryptocurrency
+HOST-SUFFIX,tronalliance.com,Cryptocurrency
+HOST-SUFFIX,tronalliance.cc,Cryptocurrency
+HOST-SUFFIX,trongrid.io,Cryptocurrency
+HOST-SUFFIX,infura.io,Cryptocurrency
+HOST-SUFFIX,binance.org,Cryptocurrency
+HOST-SUFFIX,http-mainnet-node.huobichain.com,Cryptocurrency
 
 # Dapp
-HOST-SUFFIX,tronscan.io 数字货币
-HOST-SUFFIX,tronscan.org 数字货币
-HOST-SUFFIX,hogt.com 数字货币
-HOST-SUFFIX,yfx.com 数字货币
-HOST-SUFFIX,quickchart.io 数字货币
-HOST-SUFFIX,ajax.cloudflare.com 数字货币
-HOST-SUFFIX,coingecko.com 数字货币
-HOST-SUFFIX,min-api.cryptocompare.com 数字货币
-HOST-SUFFIX,wink.org 数字货币
-HOST-SUFFIX,faviconkit.com 数字货币
-HOST-SUFFIX,sgem.io 数字货币
-HOST-SUFFIX,hubbleprotocol.io 数字货币
-HOST-SUFFIX,raydium.io 数字货币
-HOST-SUFFIX,layerswap.io 数字货币
-HOST-SUFFIX,saros.finance 数字货币
-HOST-SUFFIX,coin98.services 数字货币
-HOST-SUFFIX,coin98.com 数字货币
-HOST-SUFFIX,onesignal.com 数字货币
-HOST-SUFFIX,genesysgo.net 数字货币
-HOST-SUFFIX,dappback.com 数字货币 
-HOST-SUFFIX,galxe.com 数字货币
-HOST-SUFFIX,quest3.xyz 数字货币
-HOST-SUFFIX,pyme.id 数字货币
-HOST-SUFFIX,pyme.team 数字货币
-HOST-SUFFIX,coindix.com 数字货币
-HOST-SUFFIX,solend.fi 数字货币
-HOST-SUFFIX,galaxy.eco 数字货币
+HOST-SUFFIX,tronscan.io,Cryptocurrency
+HOST-SUFFIX,tronscan.org,Cryptocurrency
+HOST-SUFFIX,hogt.com,Cryptocurrency
+HOST-SUFFIX,yfx.com,Cryptocurrency
+HOST-SUFFIX,quickchart.io,Cryptocurrency
+HOST-SUFFIX,ajax.cloudflare.com,Cryptocurrency
+HOST-SUFFIX,coingecko.com,Cryptocurrency
+HOST-SUFFIX,min-api.cryptocompare.com,Cryptocurrency
+HOST-SUFFIX,wink.org,Cryptocurrency
+HOST-SUFFIX,faviconkit.com,Cryptocurrency
+HOST-SUFFIX,sgem.io,Cryptocurrency
+HOST-SUFFIX,hubbleprotocol.io,Cryptocurrency
+HOST-SUFFIX,raydium.io,Cryptocurrency
+HOST-SUFFIX,layerswap.io,Cryptocurrency
+HOST-SUFFIX,saros.finance,Cryptocurrency
+HOST-SUFFIX,coin98.services,Cryptocurrency
+HOST-SUFFIX,coin98.com,Cryptocurrency
+HOST-SUFFIX,onesignal.com,Cryptocurrency
+HOST-SUFFIX,genesysgo.net,Cryptocurrency
+HOST-SUFFIX,dappback.com,Cryptocurrency 
+HOST-SUFFIX,galxe.com,Cryptocurrency
+HOST-SUFFIX,quest3.xyz,Cryptocurrency
+HOST-SUFFIX,pyme.id,Cryptocurrency
+HOST-SUFFIX,pyme.team,Cryptocurrency
+HOST-SUFFIX,coindix.com,Cryptocurrency
+HOST-SUFFIX,solend.fi,Cryptocurrency
+HOST-SUFFIX,galaxy.eco,Cryptocurrency
 
 # Swap
-HOST-SUFFIX,justswap.io 数字货币
-HOST-SUFFIX,just.network 数字货币
+HOST-SUFFIX,justswap.io,Cryptocurrency
+HOST-SUFFIX,just.network,Cryptocurrency
 
 # News
-HOST-SUFFIX,bishijie.com 数字货币
-HOST-SUFFIX,blocktempo.com 数字货币
-HOST-SUFFIX,chainnews.com 数字货币
-HOST-SUFFIX,theblockbeats.info 数字货币
+HOST-SUFFIX,bishijie.com,Cryptocurrency
+HOST-SUFFIX,blocktempo.com,Cryptocurrency
+HOST-SUFFIX,chainnews.com,Cryptocurrency
+HOST-SUFFIX,theblockbeats.info,Cryptocurrency
 
 # Info
-HOST-SUFFIX,coinmarketcap.com 数字货币
-HOST-SUFFIX,feixiaoquan.com 数字货币
-HOST-SUFFIX,aicoin.cn 数字货币
-HOST-SUFFIX,bqiapp.com 数字货币
-HOST-SUFFIX,bqrank.net 数字货币
-HOST-SUFFIX,chainfeeds.xyz 数字货币
-HOST-SUFFIX,aicoin.com 数字货币
-HOST-SUFFIX,sardine.ai 数字货币
-HOST-SUFFIX,mirror.xyz 数字货币
+HOST-SUFFIX,coinmarketcap.com,Cryptocurrency
+HOST-SUFFIX,feixiaoquan.com,Cryptocurrency
+HOST-SUFFIX,aicoin.cn,Cryptocurrency
+HOST-SUFFIX,bqiapp.com,Cryptocurrency
+HOST-SUFFIX,bqrank.net,Cryptocurrency
+HOST-SUFFIX,chainfeeds.xyz,Cryptocurrency
+HOST-SUFFIX,aicoin.com,Cryptocurrency
+HOST-SUFFIX,sardine.ai,Cryptocurrency
+HOST-SUFFIX,mirror.xyz,Cryptocurrency
 
 #NFT
-HOST-SUFFIX,solsea.io 数字货币
+HOST-SUFFIX,solsea.io,Cryptocurrency
 
 #Hardware Wallet
-HOST-SUFFIX,ledger.com 数字货币
+HOST-SUFFIX,ledger.com,Cryptocurrency
