@@ -123,6 +123,10 @@ HOST-SUFFIX,galaxy.eco,Cryptocurrency
 HOST-SUFFIX,justswap.io,Cryptocurrency
 HOST-SUFFIX,just.network,Cryptocurrency
 HOST-SUFFIX,1inch.io,Cryptocurrency
+host-suffix,saasexch.com,Cryptocurrency
+host-suffix,mav.xyz,Cryptocurrency
+host-suffix,sei.io,Cryptocurrency
+host-suffix,celestia.org,Cryptocurrency
 
 # News
 HOST-SUFFIX,bishijie.com,Cryptocurrency
