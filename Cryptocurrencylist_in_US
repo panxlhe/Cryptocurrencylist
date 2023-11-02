@@ -1,4 +1,3 @@
-# baned by US
 # CEX
 HOST-SUFFIX,bibox.com,Cryptocurrency
 HOST-SUFFIX,binance.cc,Cryptocurrency
@@ -32,7 +31,7 @@ HOST-SUFFIX,365huo.xyz,Cryptocurrency
 HOST-SUFFIX,okx.com,Cryptocurrency
 
 
-# defi
+# dapp
 HOST-SUFFIX,1inch.io,Cryptocurrency
 HOST-SUFFIX,saasexch.com,Cryptocurrency
 HOST-SUFFIX,mav.xyz,Cryptocurrency
