@@ -32,9 +32,9 @@ DOMAIN-SUFFIX,sentry.io,AI
 DOMAIN-SUFFIX,stripe.com,AI
 DOMAIN-SUFFIX,turn.livekit.cloud,AI
 DOMAIN-KEYWORD,openai,AI
-IP-ASN,20473,no-resolve,AI
-IP-CIDR,24.199.123.28/32,no-resolve,AI
-IP-CIDR,64.23.132.171/32,no-resolve,AI
+#IP-ASN,20473,no-resolve,AI
+#IP-CIDR,24.199.123.28/32,no-resolve,AI
+#IP-CIDR,64.23.132.171/32,no-resolve,AI
 
 #claude
 HOST,cdn.usefathom.com,AI
