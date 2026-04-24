@@ -1,2 +1,2 @@
 # Cryptocurrencylist
-This is a list of cryptocurrency sites for filtering rules.
+This is a list of cryptocurrency and AI sites for filtering rules.
