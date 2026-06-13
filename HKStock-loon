@@ -1,0 +1,26 @@
+# >>> 富途证券 (Futu / Futubull / Moomoo) <<<
+DOMAIN-SUFFIX,futunn.com
+DOMAIN-SUFFIX,moomoo.com
+DOMAIN-SUFFIX,futuhk.com
+DOMAIN-SUFFIX,futufin.com
+DOMAIN-SUFFIX,futuholdings.com
+DOMAIN-SUFFIX,futu5.com
+DOMAIN-SUFFIX,futuone.com
+DOMAIN-KEYWORD,futu
+
+# >>> 长桥证券 (Longbridge / LongPort) <<<
+DOMAIN-SUFFIX,longbridge.hk
+DOMAIN-SUFFIX,longbridgeapp.com
+DOMAIN-SUFFIX,longportapp.com
+DOMAIN-SUFFIX,long-bridge.com
+DOMAIN-SUFFIX,longbridge.sg
+DOMAIN-KEYWORD,longbridge
+DOMAIN-KEYWORD,longport
+
+# >>> 老虎证券 (Tiger Brokers) <<<
+DOMAIN-SUFFIX,tigerbrokers.com
+DOMAIN-SUFFIX,itiger.com
+DOMAIN-SUFFIX,tigerfintech.com
+DOMAIN-SUFFIX,itigerup.com
+DOMAIN-SUFFIX,tigerbrokers.com.sg
+DOMAIN-KEYWORD,tigerbrokers
